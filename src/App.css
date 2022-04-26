@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Grandstander:ital,wght@0,548;1,900&display=swap');
+
+
+
+
+a{
+  color:black !important;
+}
+.brand-logo,h2{
+  font-family: 'Grandstander', cursive;
+}
+.authcard{
+  margin-top: 50px;
+  padding:20px;
+  text-align: centers; 
+  margin:10px auto;
+}
+.mycard{
+  margin-top: 30px;
+  border-radius: 2px;
+  background-image:url(https://wallpaperaccess.com/full/2314950.jpg);
+
+}
+.gallery{
+  display:flex;
+  flex-wrap: wrap;
+  justify-content:space-around;
+}
+.item{
+  width:30%;
+
+}
+
+#sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 10;
+}
+
+
+
+.home-card{
+
+  max-width: 500px;
+  height: max-content;
+  margin:26px auto;
+ 
+
+}
+#toast-container{
+
+  top:90px !important;
+  left:40px !important;
+  right:auto !important;
+}
+#b1{
+  margin:20px;
+}
+.back{
+  display: 'flex';
+  height: 100%;
+  background-image: url("https://bd.gaadicdn.com/processedimages/royal-enfield/classic350/source/classic3506131bb8729f70.jpg");
+}

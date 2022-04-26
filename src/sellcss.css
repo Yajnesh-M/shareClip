@@ -1,0 +1,16 @@
+.box{
+    flex-grow: inherit;
+    background-color: lightcoral;
+
+}
+.text{
+ color:lightgoldenrodyellow;
+}
+.button{
+    border-radius:10px;
+    background-color: rgb(43, 250, 250);
+    padding:5px 10px;
+    color:black;
+    border:none;
+    margin:40px;
+}
